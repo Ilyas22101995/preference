@@ -1,0 +1,302 @@
+мар 15, 2018 3:34:24 PM GameArea initialize
+INFO: START GAME
+
+мар 15, 2018 3:34:26 PM GameArea razdacha
+INFO: 
+Start distribution cards for players
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: tenPeaks for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: nineWorms for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: ladyWorms for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: jackBartisms for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: eightBartisms for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: kingPeaks for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: sevenBartisms for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: jackWorms for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: kingBartisms for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: acePeaks for player: Alex
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: kingBubbles for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: ladyBubbles for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: tenBartisms for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: nineBubbles for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: sevenPeaks for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: eightWorms for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: sevenBubbles for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: tenWorms for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: jackPeaks for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: nineBartisms for player: Niko
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: jackBubbles for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: aceWorms for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: eightPeaks for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: eightBubbles for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: ladyBartisms for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: ninePeaks for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: kingWorms for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: sevenWorms for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: tenBubbles for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: 
+Added card: ladyPeaks for player: Liza
+мар 15, 2018 3:34:27 PM GameArea razdacha
+INFO: End distribution cards for players
+
+мар 15, 2018 3:34:27 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table eightBartisms
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table tenBartisms
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table ladyBartisms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: ladyBartisms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 9 count cards: 9
+Player: Niko points: 9 count cards: 9
+Player: Liza points: 11 count cards: 9
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 0 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table jackWorms
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table eightWorms
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table aceWorms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: aceWorms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 8 count cards: 8
+Player: Niko points: 8 count cards: 8
+Player: Liza points: 12 count cards: 8
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 1 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table kingPeaks
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table sevenPeaks
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table jackBubbles
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: kingPeaks
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 9 count cards: 7
+Player: Niko points: 7 count cards: 7
+Player: Liza points: 11 count cards: 7
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 2 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table sevenBartisms
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table nineBartisms
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table kingWorms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: nineBartisms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 8 count cards: 6
+Player: Niko points: 8 count cards: 6
+Player: Liza points: 10 count cards: 6
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 3 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table nineWorms
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table tenWorms
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table eightBubbles
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: tenWorms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 7 count cards: 5
+Player: Niko points: 9 count cards: 5
+Player: Liza points: 9 count cards: 5
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 4 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table tenPeaks
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table jackPeaks
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table ladyPeaks
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: ladyPeaks
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 6 count cards: 4
+Player: Niko points: 8 count cards: 4
+Player: Liza points: 10 count cards: 4
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 5 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table acePeaks
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table nineBubbles
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table eightPeaks
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: acePeaks
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 7 count cards: 3
+Player: Niko points: 7 count cards: 3
+Player: Liza points: 9 count cards: 3
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 6 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table kingBartisms
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table sevenBubbles
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table sevenWorms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: kingBartisms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 8 count cards: 2
+Player: Niko points: 6 count cards: 2
+Player: Liza points: 8 count cards: 2
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 7 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table jackBartisms
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table kingBubbles
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table ninePeaks
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: jackBartisms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 9 count cards: 1
+Player: Niko points: 5 count cards: 1
+Player: Liza points: 7 count cards: 1
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 8 stake
+
+мар 15, 2018 3:34:28 PM GameArea oneGamerToOneGame
+INFO: 
+Alex put on the table ladyWorms
+мар 15, 2018 3:34:28 PM GameArea twoGamerToOneGame
+INFO: 
+Niko put on the table ladyBubbles
+мар 15, 2018 3:34:28 PM GameArea threeGamerToOneGame
+INFO: 
+Liza put on the table tenBubbles
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Winner card: ladyWorms
+мар 15, 2018 3:34:28 PM GameArea win
+INFO: 
+Player: Alex points: 10 count cards: 0
+Player: Niko points: 4 count cards: 0
+Player: Liza points: 6 count cards: 0
+мар 15, 2018 3:34:28 PM GameArea game
+INFO: END 9 stake
+
+мар 15, 2018 3:34:28 PM GameArea main
+INFO: 
+END GAME
